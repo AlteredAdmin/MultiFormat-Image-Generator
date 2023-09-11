@@ -1,4 +1,4 @@
-# MultiFormatImageGenerator
+# MultiFormat Image Generator
 
 MultiFormatImageGenerator is a Python script that generates test images in multiple formats (JPEG, PNG, BMP, TIFF) with randomized resolutions, background colors, and text colors.
 
@@ -48,6 +48,8 @@ To use MultiFormatImageGenerator, you'll need to have Python installed along wit
 
 Feel free to fork the repository and submit pull requests. All contributions are welcome!
 
-## License:
+## Support the Developer
 
-N/A
+If you found this helpful, please consider:
+
+- **Buymeacoffee:** [Link](http://buymeacoffee.com/alteredadmin)
